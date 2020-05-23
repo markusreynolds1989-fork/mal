@@ -1,0 +1,13 @@
+C:\Users\Markus\Code\mal\cs\obj\Debug\netcoreapp3.1\cs.csprojAssemblyReference.cache
+C:\Users\Markus\Code\mal\cs\obj\Debug\netcoreapp3.1\cs.csproj.CoreCompileInputs.cache
+C:\Users\Markus\Code\mal\cs\obj\Debug\netcoreapp3.1\cs.AssemblyInfoInputs.cache
+C:\Users\Markus\Code\mal\cs\obj\Debug\netcoreapp3.1\cs.AssemblyInfo.cs
+C:\Users\Markus\Code\mal\cs\bin\Debug\netcoreapp3.1\cs.exe
+C:\Users\Markus\Code\mal\cs\bin\Debug\netcoreapp3.1\cs.deps.json
+C:\Users\Markus\Code\mal\cs\bin\Debug\netcoreapp3.1\cs.runtimeconfig.json
+C:\Users\Markus\Code\mal\cs\bin\Debug\netcoreapp3.1\cs.runtimeconfig.dev.json
+C:\Users\Markus\Code\mal\cs\bin\Debug\netcoreapp3.1\cs.dll
+C:\Users\Markus\Code\mal\cs\bin\Debug\netcoreapp3.1\cs.pdb
+C:\Users\Markus\Code\mal\cs\obj\Debug\netcoreapp3.1\cs.dll
+C:\Users\Markus\Code\mal\cs\obj\Debug\netcoreapp3.1\cs.pdb
+C:\Users\Markus\Code\mal\cs\obj\Debug\netcoreapp3.1\cs.genruntimeconfig.cache
